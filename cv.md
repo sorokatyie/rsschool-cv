@@ -1,5 +1,5 @@
 #  IVAN SARAKATY
-
+![Profile image](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Cat03.jpg/1024px-Cat03.jpg)
 ### Contact info
 
     My Phone: +375291933075
@@ -33,7 +33,7 @@ describe("Basic tests",() =>{
 ```
 ### Experience
 ***
-No experience work
+>No experience work
 
 ### Education
 ***
