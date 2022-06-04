@@ -1,5 +1,5 @@
 #  IVAN SARAKATY
-![Profile image](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Cat03.jpg/1024px-Cat03.jpg)
+![Profile image](https://avatars.githubusercontent.com/u/50441216?s=400&u=9706943db81d9335e7f46cc1a818d1a38973b4e3&v=4)
 ### Contact info
 
     My Phone: +375291933075
