@@ -50,7 +50,7 @@ li {
 
 .container-1 div,
 .container-2 div {
-  padding: 20px;
+  padding: 40px;
 }
 
 .box-1 {
@@ -68,7 +68,7 @@ li {
 .top-section {
   background-color: #d0dfec;
   text-align: center;
-  padding: 50px;
+  padding: 20px;
 }
 
 .profile {
