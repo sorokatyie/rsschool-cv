@@ -1,0 +1,90 @@
+.header {
+  background-color: rgb(122, 172, 236);
+}
+
+.nav-list {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
+
+.nav-link {
+  padding: 0 20px;
+  line-height: 10px;
+  transition: .3s;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  font-family: 'Fira Sans',
+    sans-serif;
+  font-size: 25px;
+  background-color: rgb(243, 239, 255);
+}
+
+li {
+  list-style-type: none;
+  /* Убираем маркеры */
+}
+
+
+@media (min-width: 500px) {
+  .container-1 {
+    display: flex;
+    align-items: stretch;
+    flex-direction: row;
+    border-bottom: 1px solid #672f2f;
+  }
+}
+
+.container-2 {
+  display: flex;
+}
+
+.container-2 {
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+
+.container-1 div,
+.container-2 div {
+  padding: 20px;
+}
+
+.box-1 {
+  flex: 2;
+  order: 2;
+
+}
+
+.box-2 {
+  flex: 2;
+  order: 1;
+}
+
+
+.top-section {
+  background-color: #d0dfec;
+  text-align: center;
+  padding: 50px;
+}
+
+.profile {
+  width: 150px;
+  border-radius: 50%;
+}
+
+.list-icon {
+  margin: 0 10px 10px 0;
+  width: 18px;
+}
+
+.footer__links {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  min-height: 100px;
+  background-color: rgb(7, 58, 78)
+}
