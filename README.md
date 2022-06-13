@@ -1,1 +1,1 @@
-# rsschool-cv
+https://sorokatyie.github.io/rsschool-cv/cv
